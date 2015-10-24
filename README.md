@@ -1,4 +1,6 @@
-# Fun Facts with Object Orientation
+# SnapFacts with Object Orientation
+
+![gone](http://www.thefutureorganization.com/wp-content/uploads/2014/07/disappear-from-search-engines.jpg)
 
 Today we will complete the Fun Facts app.
 
