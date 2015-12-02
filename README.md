@@ -18,3 +18,5 @@ Today we will create *SnapFacts* — a cross between Snapchat and our FunFacts a
 4. Add a fact property that is a link to an image.
 5. Make a method that makes the image disapear after 8 seconds.
 6. Have your image gradually fade out by adjusting alpha
+
+<a href='https://learn.co/lessons/pc-ios-app-funfacts-oo' data-visibility='hidden'>View this lesson on Learn.co</a>
