@@ -19,4 +19,4 @@ Today we will create *SnapFacts* — a cross between Snapchat and our FunFacts a
 5. Make a method that makes the image disapear after 8 seconds.
 6. Have your image gradually fade out by adjusting alpha
 
-<a href='https://learn.co/lessons/pc-ios-app-funfacts-oo' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc-ios-app-funfacts-oo' title='SnapFacts with Object Orientation'>SnapFacts with Object Orientation</a> on Learn.co and start learning to code for free.</p>
